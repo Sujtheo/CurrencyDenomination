@@ -1,0 +1,6 @@
+C:\Users\u80823\source\repos\CurrencyConverter\CurrencyConverter.Business\bin\Debug\CurrencyConverter.Business.dll
+C:\Users\u80823\source\repos\CurrencyConverter\CurrencyConverter.Business\bin\Debug\CurrencyConverter.Business.pdb
+C:\Users\u80823\source\repos\CurrencyConverter\CurrencyConverter.Business\obj\Debug\CurrencyConverter.Business.csprojAssemblyReference.cache
+C:\Users\u80823\source\repos\CurrencyConverter\CurrencyConverter.Business\obj\Debug\CurrencyConverter.Business.csproj.CoreCompileInputs.cache
+C:\Users\u80823\source\repos\CurrencyConverter\CurrencyConverter.Business\obj\Debug\CurrencyConverter.Business.dll
+C:\Users\u80823\source\repos\CurrencyConverter\CurrencyConverter.Business\obj\Debug\CurrencyConverter.Business.pdb
